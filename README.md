@@ -2,6 +2,11 @@
 
 Use a real time weather API to apply wind to your mouse cursor.
 
+## Requirements
+
+ * [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
+ * [pyowm](https://pyowm.readthedocs.io)
+
 ## Usage
 
 This program uses the [OpenWeatherMap](https://home.openweathermap.org/) API.
